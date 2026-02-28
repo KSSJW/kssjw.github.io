@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'KSSJW\'s Site',
-  tagline: 'Hello World!',
+  title: 'WindySky Project',
+  tagline: 'The project created by KSSJW',
   favicon: 'img/Profile.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -83,12 +83,13 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'KSSJW\'s Site',
+        title: 'WindySky Project',
         logo: {
           alt: 'My Site Logo',
           src: 'img/Profile.svg',
         },
         items: [
+          {to: '/studio', label: 'Studio', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
@@ -113,6 +114,10 @@ const config = {
               {
                 label: 'Home',
                 to: '/',
+              },
+              {
+                label: 'Studio',
+                to: '/studio',
               },
               {
                 label: 'Docs',

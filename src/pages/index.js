@@ -19,6 +19,12 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
+            to="/studio">
+            Studio
+          </Link>
+          <p>&emsp;</p>
+          <Link
+            className="button button--secondary button--lg"
             to="/docs/intro">
             Docs
           </Link>
@@ -45,7 +51,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="The project created by KSSJW.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
