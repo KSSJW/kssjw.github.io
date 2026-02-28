@@ -22,19 +22,16 @@ function HomepageHeader() {
             to="/studio">
             Studio
           </Link>
-          <p>&emsp;</p>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
             Docs
           </Link>
-          <p>&emsp;</p>
           <Link
             className="button button--secondary button--lg"
             to="/blog">
             Blog
           </Link>
-          <p>&emsp;</p>
           <Link
             className="button button--secondary button--lg"
             to="/info">
