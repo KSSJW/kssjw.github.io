@@ -10,6 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  plugins: ["@cmfcmf/docusaurus-search-local"],
+  
   title: 'WindySky Project',
   tagline: 'The project created by KSSJW',
   favicon: 'img/Profile.ico',
@@ -97,12 +99,7 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/info', label: 'Info', position: 'left'},
-          {
-            href: 'https://github.com/KSSJW/kssjw.github.io',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {to: '/info', label: 'Info', position: 'left'}
         ],
       },
       footer: {
@@ -137,8 +134,16 @@ const config = {
             title: 'Contact',
             items: [
               {
-                label: 'Github',
+                label: 'GitHub',
                 href: 'https://github.com/KSSJW',
+              },
+              {
+                label: 'Discord',
+                href: '/get-discord',
+              },
+              {
+                label: 'Bluesky',
+                href: 'https://bsky.app/profile/kssjw.bsky.social',
               }
             ],
           },
@@ -152,6 +157,10 @@ const config = {
               {
                 label: 'Legacy Page',
                 to: '/legacy',
+              },
+              {
+                label: 'Status Page',
+                href: 'https://status.windysky.top',
               }
             ],
           },
