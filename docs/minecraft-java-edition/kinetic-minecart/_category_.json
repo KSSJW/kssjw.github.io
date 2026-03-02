@@ -1,0 +1,8 @@
+{
+  "label": "Kinetic Minecart",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Impact damage from high-speed minecarts!"
+  }
+}

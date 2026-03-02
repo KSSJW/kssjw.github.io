@@ -1,0 +1,8 @@
+{
+  "label": "Minecart HUD",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Add a head-up display to the minecart."
+  }
+}

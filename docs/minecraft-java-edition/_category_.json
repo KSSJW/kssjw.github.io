@@ -1,0 +1,8 @@
+{
+  "label": "Minecraft Java Edition",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Some mods for Minecraft Java Edition."
+  }
+}

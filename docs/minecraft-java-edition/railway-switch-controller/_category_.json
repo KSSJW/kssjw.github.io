@@ -1,0 +1,8 @@
+{
+  "label": "Railway Switch Controller",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "You can see and control the railway switches ahead!"
+  }
+}
