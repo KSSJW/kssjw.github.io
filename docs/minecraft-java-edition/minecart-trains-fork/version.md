@@ -18,7 +18,7 @@ The latest development progress is displayed in a list.
 
 | Minecraft Version | Stable Mod Version                                    | Unstable Mod version                              |
 | :---------------- | :---------------------------------------------------- | :------------------------------------------------ |
-| 1.21.11           | <font color="skyblue">2.1.1+1.21.11</font>            | <font color="red">2.2.0-alpha.2+1.21.11</font>    |
+| 1.21.11           | <font color="skyblue">2.1.1+1.21.11</font>            | <font color="red">2.2.0-alpha.3+1.21.11</font>    |
 | 1.21.9 - 1.21.10  | <font color="limegreen">2.1.1+1.21.9</font>           | -                                                 |
 | 1.21.6 - 1.21.8   | <font color="limegreen">2.1.1+1.21.6.patch.1</font>   | -                                                 |
 | 1.21.5            | <font color="limegreen">2.1.1+1.21.5</font>           | -                                                 |
