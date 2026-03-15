@@ -47,7 +47,7 @@ const DataApplications = [
   {
     img: '/img/Studio/LuckyArtwork.png',
     name: 'Lucky Artwork',
-    description: 'A Flutter framework project that uses an API to randomly generate illustrations.',
+    description: 'A Flutter framework project that uses an API to get a random illustration.',
     link: 'https://github.com/KSSJW/lucky-artwork'
   },
 ]
