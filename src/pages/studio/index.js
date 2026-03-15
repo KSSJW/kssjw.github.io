@@ -42,6 +42,16 @@ const DataMinecraftJavaEdition = [
   },
 ];
 
+// 应用
+const DataApplications = [
+  {
+    img: '/img/Studio/LuckyArtwork.png',
+    name: 'Lucky Artwork',
+    description: 'A Flutter framework project that uses an API to randomly generate illustrations.',
+    link: 'https://github.com/KSSJW/lucky-artwork'
+  },
+]
+
 // 卡片组件
 function Card({ img, name, description, link }) {
   return (
@@ -61,6 +71,15 @@ export default function CardsPage() {
             <h2>Minecraft Java Edition</h2>
             <div className={styles.cardGrid}>
                 {DataMinecraftJavaEdition.map(
+                  (card, index) => (
+                    <Card key={index} {...card} />
+                  )
+                )}
+            </div>
+            <br></br>
+            <h2>Applications</h2>
+            <div className={styles.cardGrid}>
+                {DataApplications.map(
                   (card, index) => (
                     <Card key={index} {...card} />
                   )
