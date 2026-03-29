@@ -23,6 +23,12 @@ const DataMinecraftJavaEdition = [
     link: 'https://github.com/KSSJW/Leaves-Nightly-CI'
   },
   {
+    img: '/img/Studio/MinecartBraking.png',
+    name: 'Minecart Braking',
+    description: 'Added a braking function to the minecart.',
+    link: 'https://github.com/KSSJW/minecart-braking'
+  },
+  {
     img: '/img/Studio/MinecartHUD.png',
     name: 'Minecart HUD',
     description: 'Add a head-up display to the minecart.',
