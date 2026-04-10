@@ -17,6 +17,8 @@ Docusaurus 3.9.2
 
 \+ Docusaurus Search Local 2.0.1
 
+\+ Live2D Widget 1.0.0
+
 ## Date of Creation
 
 ![y](pathname:///img/Info/y.svg) y ![m](pathname:///img/Info/m.svg) m ![d](pathname:///img/Info/d.svg) d
