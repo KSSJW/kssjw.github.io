@@ -18,11 +18,11 @@ The latest development progress is displayed in a list.
 
 | Minecraft Version | Stable Mod Version                                    | Unstable Mod version                              |
 | :---------------- | :---------------------------------------------------- | :------------------------------------------------ |
-| 26.1              | <font color="skyblue">2.2.2+26.1.fabric</font>        | -                                                 |
+| 26.1.x            | <font color="skyblue">2.2.2+26.1.fabric</font>        | -                                                 |
 | 1.21.11           | <font color="limegreen">2.2.2+1.21.11.fabric</font>   | -                                                 |
 | 1.21.9 - 1.21.10  | <font color="limegreen">2.2.2+1.21.9.fabric</font>    | -                                                 |
-| 1.21.6 - 1.21.8   | <font color="orange">2.2.1+1.21.6.fabric</font>       | -                                                 |
-| 1.21.5            | <font color="orange">2.2.1+1.21.5.fabric</font>       | -                                                 |
+| 1.21.6 - 1.21.8   | <font color="limegreen">2.2.2+1.21.6</font>           | -                                                 |
+| 1.21.5            | <font color="limegreen">2.2.2+1.21.5</font>           | -                                                 |
 | 1.21.4            | <font color="orange">2.2.1+1.21.4.fabric</font>       | -                                                 |
 | 1.21.2 - 1.21.3   | <font color="orange">2.2.1+1.21.2.fabric</font>       | -                                                 |
 | 1.21 - 1.21.1     | <font color="orange">2.2.1+1.21.fabric</font>         | -                                                 |
