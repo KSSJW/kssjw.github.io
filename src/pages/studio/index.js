@@ -56,6 +56,12 @@ const DataApplications = [
     description: 'A Flutter framework project that uses an API to get a random illustration.',
     link: 'https://github.com/KSSJW/lucky-artwork'
   },
+  {
+    img: '/img/Studio/Flutter.png',
+    name: 'Relaxing Collection',
+    description: 'A collection of relaxing games written using the Flutter framework.',
+    link: 'https://github.com/KSSJW/relaxing-collection'
+  },
 ]
 
 // 卡片组件
