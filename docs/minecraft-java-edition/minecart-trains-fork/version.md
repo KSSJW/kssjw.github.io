@@ -35,3 +35,9 @@ The latest development progress is displayed in a list.
 | 1.19 - 1.19.2     | <font color="orange">1.19-release.1</font>        | -                                                 |
 | 1.18.x            | <font color="orange">1.18-release.1</font>        | -                                                 |
 | 1.17.x            | <font color="orange">1.17-release.1</font>        | -                                                 |
+
+## NeoForge
+
+| Minecraft Version | Stable Mod Version                                    | Unstable Mod version  |
+| :---------------- | :---------------------------------------------------- | :-------------------- |
+| 26.1.x            | <font color="limegreen">2.3.0+26.1.neoforge</font>    | -                     |
