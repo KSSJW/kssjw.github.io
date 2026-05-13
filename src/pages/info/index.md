@@ -31,8 +31,7 @@ Docusaurus 3.9.2
 
 ## External Image Source
 
-[Docusaurus](https://github.com/facebook/docusaurus) was used on Home
-
-[Leaves](https://github.com/LeavesMC/Leaves) was used on Studio
-
-[Moe Counter](https://github.com/journey-ad/Moe-Counter) was used on Info
+[笔中的呓喃之境](https://www.pixiv.net/artworks/115191853)
+[Docusaurus](https://github.com/facebook/docusaurus)
+[Leaves](https://github.com/LeavesMC/Leaves)
+[MoeCounter](https://github.com/journey-ad/Moe-Counter)

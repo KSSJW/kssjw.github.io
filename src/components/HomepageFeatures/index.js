@@ -8,16 +8,16 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        This website was built with <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">Docusaurus</a>, thanks to the open-source community for their support.
+        This website was built using <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">Docusaurus</a>, thanks to the open source community.
       </>
     ),
   },
   {
-    title: 'One-stop Service',
+    title: 'Multifunctional Service',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        The website offers multiple subpages to provide a one-stop service.
+        The website offers multiple subpages to provide one-stop service.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        <a href="https://github.com/KSSJW" target="_blank" rel="noopener noreferrer">KSSJW</a> was responsible for the website's design and launch.
+        The website is maintained by <a href="https://github.com/KSSJW" target="_blank" rel="noopener noreferrer">KSSJW</a>.
       </>
     ),
   },
