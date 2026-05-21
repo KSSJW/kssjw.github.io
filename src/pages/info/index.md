@@ -9,7 +9,7 @@ hide_table_of_contents: true
 
 ## Owner
 
-KSSJW
+[KSSJW](https://github.com/KSSJW)
 
 ## Framework
 
@@ -29,9 +29,10 @@ Docusaurus 3.9.2
 
 ---
 
-## External Image Source
+## External Source
 
 [笔中的呓喃之境](https://www.pixiv.net/artworks/115191853)
 [Docusaurus](https://github.com/facebook/docusaurus)
 [Leaves](https://github.com/LeavesMC/Leaves)
 [MoeCounter](https://github.com/journey-ad/Moe-Counter)
+[Live2DWidget](https://github.com/stevenjoezhang/live2d-widget)

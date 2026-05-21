@@ -18,9 +18,9 @@ const DataMinecraftJavaEdition = [
   },
   {
     img: '/img/Studio/LeavesNightlyCI.png',
-    name: 'Leaves Nightly CI',
+    name: '(Archived) Leaves Nightly CI',
     description: 'An unofficial, radical build project that builds the latest changes from upstream.',
-    link: 'https://github.com/KSSJW/Leaves-Nightly-CI'
+    link: 'https://github.com/KSSJW/leaves-nightly-ci'
   },
   {
     img: '/img/Studio/MinecartBraking.png',

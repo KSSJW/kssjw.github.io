@@ -6,4 +6,4 @@ hide_table_of_contents: true
 
 # Get Discord
 
-We cannot jump directly to Discord, you need to search for user: **KSSJW**
+We cannot jump directly to Discord, you need to search for user: **kssjw**
