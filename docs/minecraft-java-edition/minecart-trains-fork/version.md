@@ -29,7 +29,7 @@ The latest development progress is displayed in a list.
 | 1.20.5 - 1.21.6   | <font color="orange">2.2.1+1.20.5.fabric</font>   | -                                                 |
 | 1.20.3 - 1.20.4   | <font color="orange">1.20.3-release.1</font>      | -                                                 |
 | 1.20.2            | <font color="orange">1.20-release.1</font>        | -                                                 |
-| 1.20 - 1.20.1     | <font color="limegreen">2.4.2+1.20</font>         | -                                                 |
+| 1.20 - 1.20.1     | <font color="limegreen">2.4.2+1.20.r1</font>      | -                                                 |
 | 1.19.4            | <font color="orange">1.19-release.1</font>        | -                                                 |
 | 1.19.3            | <font color="orange">1.19-release.1</font>        | -                                                 |
 | 1.19 - 1.19.2     | <font color="orange">1.19-release.1</font>        | -                                                 |
