@@ -42,3 +42,9 @@ The latest development progress is displayed in a list.
 | :---------------- | :---------------------------------------------------- | :-------------------- |
 | 26.1.x            | <font color="limegreen">2.4.2+26.1.neoforge.r1</font> | -                     |
 | 1.21 - 1.21.1     | <font color="limegreen">2.4.2+1.21.neoforge</font>    | -                     |
+
+## Forge
+
+| Minecraft Version | Stable Mod Version                                | Unstable Mod version  |
+| :---------------- | :------------------------------------------------ | :-------------------- |
+| 1.20 - 1.20.1     | <font color="limegreen">2.4.2+1.20.forge</font>   | -                     |
