@@ -164,7 +164,7 @@ const config = {
                 href: 'https://status.windysky.top',
               },
               {
-                label: 'Get A Catgirl',
+                label: 'Get a Catgirl',
                 href: 'https://nggyu.windysky.top',
               }
             ],
