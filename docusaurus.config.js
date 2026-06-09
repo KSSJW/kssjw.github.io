@@ -135,6 +135,10 @@ const config = {
             title: 'Contact',
             items: [
               {
+                label: 'Email',
+                href: 'mailto:kssjw@windysky.top',
+              },
+              {
                 label: 'GitHub',
                 href: 'https://github.com/KSSJW',
               },
