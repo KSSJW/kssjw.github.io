@@ -149,6 +149,10 @@ const config = {
               {
                 label: 'Bluesky',
                 href: 'https://bsky.app/profile/kssjw.bsky.social',
+              },
+              {
+                label: 'BiliBili',
+                href: 'https://space.bilibili.com/1262595169',
               }
             ],
           },
