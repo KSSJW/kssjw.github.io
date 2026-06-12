@@ -23,6 +23,12 @@ const DataMinecraftJavaEdition = [
     link: 'https://github.com/KSSJW/leaves-nightly-ci'
   },
   {
+    img: 'https://cdn.jsdelivr.net/gh/KSSJW/lucid-sky@main/pack.png',
+    name: 'Lucid Sky',
+    description: 'Sky and weather modified for realism based on the original version.',
+    link: 'https://github.com/KSSJW/lucid-sky'
+  },
+  {
     img: '/img/Studio/MinecartBraking.png',
     name: 'Minecart Braking',
     description: 'Added a braking function to the minecart.',
