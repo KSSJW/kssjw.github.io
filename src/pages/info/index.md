@@ -29,10 +29,27 @@ Docusaurus 3.9.2
 
 ---
 
+## Special Thanks
+
+[GitHub](https://github.com) (Open source platform, GitHub Pages hosting)
+
+[Docusaurus](https://github.com/facebook/docusaurus) (Website framework)
+
+[MoeCounter](https://github.com/journey-ad/Moe-Counter) (Cute anime mascots)
+
+[Live2DWidget](https://github.com/stevenjoezhang/live2d-widget) (Cute anime mascots)
+
+[Cloudflare](https://www.cloudflare.com) (Domain Hosting)
+
+[jsDelivr](https://www.jsdelivr.com) (CDN)
+
+---
+
 ## External Source
 
 [笔中的呓喃之境](https://www.pixiv.net/artworks/115191853)
 [Docusaurus](https://github.com/facebook/docusaurus)
 [Leaves](https://github.com/LeavesMC/Leaves)
+[Flutter](https://flutter.dev/)
 [MoeCounter](https://github.com/journey-ad/Moe-Counter)
 [Live2DWidget](https://github.com/stevenjoezhang/live2d-widget)

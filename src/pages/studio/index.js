@@ -5,19 +5,19 @@ import Link from '@docusaurus/Link';
 // 卡片数据
 const DataMinecraftJavaEdition = [
   {
-    img: '/img/Studio/GlowingMinecart.png',
+    img: 'https://cdn.jsdelivr.net/gh/KSSJW/glowing-minecart@main/Big.png',
     name: 'Glowing Minecart',
     description: 'Minecart lighting based on the original Minecraft.',
     link: 'https://github.com/KSSJW/glowing-minecart'
   },
   {
-    img: '/img/Studio/KineticMinecart.png',
+    img: 'https://cdn.jsdelivr.net/gh/KSSJW/kinetic-minecart@main/images/Big.png',
     name: 'Kinetic Minecart',
     description: 'Impact damage from high-speed minecarts!',
     link: 'https://github.com/KSSJW/kinetic-minecart'
   },
   {
-    img: '/img/Studio/LeavesNightlyCI.png',
+    img: 'https://avatars.githubusercontent.com/u/93428079',
     name: '(Archived) Leaves Nightly CI',
     description: 'An unofficial, radical build project that builds the latest changes from upstream.',
     link: 'https://github.com/KSSJW/leaves-nightly-ci'
@@ -29,25 +29,25 @@ const DataMinecraftJavaEdition = [
     link: 'https://github.com/KSSJW/lucid-sky'
   },
   {
-    img: '/img/Studio/MinecartBraking.png',
+    img: 'https://cdn.modrinth.com/data/mwpGizag/7c5c80bcd330a23ef2775f1c80f5b1a626a128e0_96.webp',
     name: 'Minecart Braking',
     description: 'Added a braking function to the minecart.',
     link: 'https://github.com/KSSJW/minecart-braking'
   },
   {
-    img: '/img/Studio/MinecartHUD.png',
+    img: 'https://cdn.jsdelivr.net/gh/KSSJW/minecart-hud@main/images/Big.png',
     name: 'Minecart HUD',
     description: 'Add a head-up display to the minecart.',
     link: 'https://github.com/KSSJW/minecart-hud'
   },
   {
-    img: '/img/Studio/MinecartTrainsFork.png',
+    img: 'https://cdn.jsdelivr.net/gh/KSSJW/minecart-trains-fork@main/images/Particle.png',
     name: 'Minecart Trains Fork',
     description: 'Add connectivity features for the minecart based on the original content.',
     link: 'https://github.com/KSSJW/minecart-trains-fork'
   },
   {
-    img: '/img/Studio/RailwaySwitchController.png',
+    img: 'https://cdn.jsdelivr.net/gh/KSSJW/railway-switch-controller@dev/images/Big.png',
     name: 'Railway Switch Controller',
     description: 'You can see and control the railway switches ahead!',
     link: 'https://github.com/KSSJW/railway-switch-controller'
@@ -57,13 +57,13 @@ const DataMinecraftJavaEdition = [
 // 应用
 const DataApplications = [
   {
-    img: '/img/Studio/LuckyArtwork.png',
+    img: 'https://cdn.jsdelivr.net/gh/KSSJW/lucky-artwork@main/LuckyArtwork.AppDir/usr/share/icons/hicolor/256x256/apps/lucky-artwork.png',
     name: 'Lucky Artwork',
     description: 'A Flutter framework project that uses an API to get a random illustration.',
     link: 'https://github.com/KSSJW/lucky-artwork'
   },
   {
-    img: '/img/Studio/Flutter.png',
+    img: 'https://avatars.githubusercontent.com/u/14101776',
     name: 'Relaxing Collection',
     description: 'A collection of relaxing games written using the Flutter framework.',
     link: 'https://github.com/KSSJW/relaxing-collection'
