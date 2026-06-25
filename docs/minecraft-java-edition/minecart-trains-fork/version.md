@@ -18,7 +18,7 @@ The latest development progress is displayed in a list.
 
 | Minecraft Version | Stable Mod Version                                | Unstable Mod version                              |
 | :---------------- | :------------------------------------------------ | :------------------------------------------------ |
-| 26.2.x            | <font color="skyblue">2.4.3+26.2</font>           | -                                                 |
+| 26.2              | <font color="skyblue">2.4.3+26.2</font>           | -                                                 |
 | 26.1.x            | <font color="orange">2.4.2+26.1</font>            | -                                                 |
 | 1.21.11           | <font color="orange">2.4.2+1.21.11</font>         | -                                                 |
 | 1.21.9 - 1.21.10  | <font color="orange">2.2.2+1.21.9.fabric</font>   | -                                                 |
@@ -41,8 +41,9 @@ The latest development progress is displayed in a list.
 
 | Minecraft Version | Stable Mod Version                                    | Unstable Mod version  |
 | :---------------- | :---------------------------------------------------- | :-------------------- |
-| 26.1.x            | <font color="orange">2.4.2+26.1.neoforge.r1</font> | -                     |
-| 1.21 - 1.21.1     | <font color="orange">2.4.2+1.21.neoforge</font>    | -                     |
+| 26.2              | <font color="limegreen">2.4.3+26.1.neoforge</font>    | -                     |
+| 26.1.x            | <font color="orange">2.4.2+26.1.neoforge.r1</font>    | -                     |
+| 1.21 - 1.21.1     | <font color="orange">2.4.2+1.21.neoforge</font>       | -                     |
 
 ## Forge
 

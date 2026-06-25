@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Project release information.
 
-## Platforms
+## Releases
 
 [![GitHub](https://img.shields.io/badge/Published%20on-GitHub-808284?logo=github&logoColor=white)](https://github.com/KSSJW/minecart-trains-fork/releases)
 [![Modrinth](https://img.shields.io/badge/Published%20on-Modrinth-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/mod/minecart-trains-fork)
