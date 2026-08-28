@@ -1,0 +1,39 @@
+---
+title: FuseLeaf Studio
+description: Get started building your docs site with Starlight.
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+hero:
+  tagline: Rooted in code, blossoming in community.
+  image:
+    file: ../../assets/Logo.png
+  actions:
+    - text: WindySky Project
+      link: /windysky/
+      icon: right-arrow
+    - text: Read the studio docs
+      link: /guides/example/
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Features
+
+<CardGrid stagger>
+	<Card title="Creator" icon="seti:github">
+		[**KSSJW**](https://github.com/KSSJW), just an open source contributor.
+	</Card>
+	<Card title="Seed" icon="seti:config">
+		The development plan was firsrt proposed by **KSSJW** in 2020.
+	</Card>
+	<Card title="Project" icon="seti:favicon">
+		**WindySky Project** was officially launched in 2025.
+	</Card>
+	<Card title="Studio" icon="seti:cake">
+		**FuseLeaf Studio** was estabkished in 2026.
+	</Card>
+	<Card title="Community" icon="seti:git">
+		Code together, thrive together.
+	</Card>
+</CardGrid>
