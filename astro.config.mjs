@@ -13,15 +13,31 @@ export default defineConfig({
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/KSSJW/kssjw.github.io' }],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Guide',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Welcome', slug: 'guide/welcome' },
 					],
 				},
 				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
+					label: 'Organization',
+					items: [{ autogenerate: { directory: 'organization' } }],
+				},
+				{
+					label: 'Projects',
+					items: [{ autogenerate: { directory: 'projects' } }],
+				},
+				{
+					label: 'Engineering',
+					items: [{ autogenerate: { directory: 'engineering' } }],
+				},
+				{
+					label: 'Governance',
+					items: [{ autogenerate: { directory: 'governance' } }],
+				},
+				{
+					label: 'Closing',
+					items: [{ autogenerate: { directory: 'closing' } }],
 				},
 			],
 		}),
