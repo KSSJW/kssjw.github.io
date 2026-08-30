@@ -8,7 +8,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			favicon: '/Favicon.png',
-			title: 'FuseLeaf',
+			title: 'FuseLeaf Studio',
 			description: 'Rooted in code, blossoming in community.',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/KSSJW/kssjw.github.io' }],
 			sidebar: [
