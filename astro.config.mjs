@@ -11,7 +11,10 @@ export default defineConfig({
 			favicon: '/Favicon.png',
 			title: 'FuseLeaf Studio',
 			description: 'Rooted in code, blossoming in community.',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/KSSJW/kssjw.github.io' }],
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/KSSJW/kssjw.github.io' },
+				{ icon: 'email', label: 'Email', href: 'mailto:contact@fuseleaf.org' },
+			],
 			sidebar: [
 				{
 					label: 'Guide',
