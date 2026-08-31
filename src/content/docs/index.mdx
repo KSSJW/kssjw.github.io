@@ -16,7 +16,7 @@ hero:
       variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 
 ## Features
 
@@ -25,17 +25,44 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 		**KSSJW**, just an open source contributor.
 	</Card>
 	<Card title="Seed" icon="seti:config">
-		The development plan was firsrt proposed by KSSJW in **2020**.
+		The development plan was first proposed by KSSJW in **2020**.
 	</Card>
 	<Card title="Project" icon="seti:favicon">
 		**WindySky Project** was officially launched in 2025.
 	</Card>
 	<Card title="Studio" icon="seti:cake">
-		**FuseLeaf Studio** was estabkished in 2026.
+		**FuseLeaf Studio** was established in 2026.
 	</Card>
 	<Card title="Technology" icon="seti:json">
 		**Minecraft: Java Edition**, **Flutter** ...
 	</Card>
+</CardGrid>
+
+## Explore
+
+<CardGrid stagger>
+  <LinkCard
+    title="KSSJW's GitHub"
+    description="KSSJW, just an open source contributor."
+    target="_blank"
+    href="https://github.com/KSSJW"
+  />
+  <LinkCard
+    title="WindySky Project"
+    description="View the WindySky Project."
+    href="/windysky"
+  />
+  <LinkCard
+    title="FuseLeaf Studio Docs"
+    description="Read the documentation."
+    href="/guide/welcome"
+  />
+  <LinkCard
+    title="FuseLeaf Studio Status Site"
+    description="Check the current service status."
+    target="_blank"
+    href="https://status.fuseleaf.org"
+  />
 </CardGrid>
 
 <div style="text-align: center;">
