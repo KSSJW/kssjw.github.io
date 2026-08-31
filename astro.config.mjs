@@ -7,6 +7,7 @@ export default defineConfig({
 	site: 'https://kssjw.github.io',
 	integrations: [
 		starlight({
+			customCss: ['./src/styles/custom.css'],
 			favicon: '/Favicon.png',
 			title: 'FuseLeaf Studio',
 			description: 'Rooted in code, blossoming in community.',

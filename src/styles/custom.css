@@ -1,0 +1,5 @@
+header.header {
+  background: color-mix(in srgb, var(--sl-color-bg) 20%, transparent);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--sl-color-hairline);
+}
