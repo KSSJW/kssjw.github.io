@@ -5,7 +5,6 @@
 If you need to access the projects I have participated in developing, please visit:
 - [KSSJW GitHub](https://github.com/KSSJW)
 - FuseLeaf Studio
-    - [Website (Cloudflare)](https://fuseleaf.org)
-    - [Website (GitHub Pages)](https://fuseleaf.github.io)
+    - [Website](https://fuseleaf.org)
     - [GitHub](https://github.com/FuseLeaf)
 - [KSSJW Contribution](https://github.com/KSSJW-Contribution)
