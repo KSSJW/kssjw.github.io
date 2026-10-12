@@ -7,4 +7,3 @@ If you need to access the projects I have participated in developing, please vis
 - FuseLeaf Studio
     - [Website](https://fuseleaf.org)
     - [GitHub](https://github.com/FuseLeaf)
-- [KSSJW Contribution](https://github.com/KSSJW-Contribution)
